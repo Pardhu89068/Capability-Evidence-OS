@@ -125,27 +125,27 @@ This creates a more evidence-driven evaluation process.
 
 ### Candidate Profile
 
-![Candidate Profile](screenshots/candidate.png)
+![Candidate Profile](Screenshots/candidate.png)
 
 ### Evidence Intelligence
 
-![Evidence Intelligence](screenshots/evidence.png)
+![Evidence Intelligence](Screenshots/evidence.png)
 
 ### Capability Mapping
 
-![Capability Mapping](screenshots/capability.png)
+![Capability Mapping](Screenshots/capability.png)
 
 ### Evidence Gap
 
-![Evidence Gap](screenshots/gap.png)
+![Evidence Gap](Screenshots/gap.png)
 
 ### Verification
 
-![Verification](screenshots/verification.png)
+![Verification](Screenshots/verification.png)
 
 ### Human Review
 
-![Human Review](screenshots/human-review.png)
+![Human Review](Screenshots/human-review.png)
 
 > If your actual screenshot filenames are different, update the filenames in this section accordingly.
 
