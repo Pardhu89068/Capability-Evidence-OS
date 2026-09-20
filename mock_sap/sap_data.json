@@ -1,0 +1,64 @@
+{
+  "system": {
+    "name": "SAP SuccessFactors Mock Tenant",
+    "environment": "DEMO",
+    "status": "CONNECTED",
+    "last_sync": "2026-09-16T21:45:00+05:30"
+  },
+  "employees": [
+    {
+      "employeeId": "EMP1001",
+      "name": "Ananya Rao",
+      "role": "Accountant",
+      "department": "Finance",
+      "location": "Tier-2 City",
+      "careerGapYears": 5,
+      "skills": [
+        "Accounting",
+        "Budgeting",
+        "Documentation",
+        "Excel"
+      ],
+      "skillEvidence": {
+        "Budgeting": "Strong",
+        "Documentation": "Strong",
+        "Excel": "Partial",
+        "Advanced Excel": "Unverified"
+      }
+    }
+  ],
+  "jobProfiles": [
+    {
+      "jobId": "FIN-RET-001",
+      "title": "Finance Executive - Return to Work",
+      "department": "Finance",
+      "requiredSkills": [
+        {
+          "skill": "Budgeting",
+          "importance": "Core"
+        },
+        {
+          "skill": "Financial Reporting",
+          "importance": "Core"
+        },
+        {
+          "skill": "Excel",
+          "importance": "Core"
+        },
+        {
+          "skill": "Advanced Excel",
+          "importance": "Relevant"
+        },
+        {
+          "skill": "Documentation",
+          "importance": "Relevant"
+        },
+        {
+          "skill": "Communication",
+          "importance": "Relevant"
+        }
+      ]
+    }
+  ],
+  "auditLog": []
+}
